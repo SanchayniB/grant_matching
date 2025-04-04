@@ -172,3 +172,12 @@ cython_debug/
 
 key.yaml
 /key.yaml
+
+
+# Any deep eval files
+
+.deepeval*
+
+
+# Any data files
+data/
