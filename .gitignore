@@ -181,3 +181,6 @@ key.yaml
 
 # Any data files
 data/
+
+# any env folder and files
+env/
