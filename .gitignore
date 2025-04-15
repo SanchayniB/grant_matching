@@ -184,3 +184,5 @@ data/
 
 # any env folder and files
 env/
+
+helper_ntbks/
